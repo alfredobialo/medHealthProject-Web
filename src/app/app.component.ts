@@ -6,7 +6,10 @@ import { RouterOutlet } from '@angular/router';
   standalone: true,
   imports: [RouterOutlet],
   template: `
-  <h1>Medical Health Care for Students</h1>
+    <div class="container">
+      <h1>Medical Health Care for Students</h1>
+    </div>
+
   `,
   styles: [`
 
