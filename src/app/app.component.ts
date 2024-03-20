@@ -7,7 +7,7 @@ import { RouterOutlet } from '@angular/router';
   imports: [RouterOutlet],
   template: `
     <div class="container">
-      <h1>Medical Health Care for Students</h1>
+      <h1 class="text-muted"> <i class="la la-home la-3x"></i> Medical Health Care for Students</h1>
     </div>
 
   `,
